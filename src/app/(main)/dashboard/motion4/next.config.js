@@ -15,9 +15,14 @@ const nextConfig = {
   // Optional: Change the output directory `out` -> `dist`
   // distDir: 'dist',
 }
- 
+
+images:{domains: ["images.unsplash.com", "https://tomaslonnblad.github.io/",
+// images.unsplash.com 
+]},
+
+
 module.exports = nextConfig
 
 
 
-;
+
